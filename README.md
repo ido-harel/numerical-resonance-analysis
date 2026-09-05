@@ -91,20 +91,6 @@ Non-physical fitting results are filtered before calculating the final statistic
 - Monte Carlo simulation
 - Statistical uncertainty estimation
 
-## Running
-
-Install dependencies:
-
-```bash
-pip install numpy scipy matplotlib
-```
-
-Run:
-
-```bash
-python3 resonance_analysis.py
-```
-
 ## Background
 
 Developed as the final project for the **Numerical Methods for Physics** course at Tel Aviv University.
